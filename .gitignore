@@ -1,0 +1,14 @@
+.DS_Store
+*.dSYM/
+.vscode/
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+a.out
+build/
+exec
